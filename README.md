@@ -1,2 +1,0 @@
-# TrynomoreDH
-DH aimb
